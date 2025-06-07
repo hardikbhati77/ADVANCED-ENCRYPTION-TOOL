@@ -1,8 +1,9 @@
 # ADVANCED-ENCRYPTION-TOOL
-
-
-
-
+Name: HARDIK BHATI
+Company: CODETECH IT SOLUTION
+Domain : CYBERSECURITY & ETHICAL HACKING
+Duration : 6 WEEKS
+Mentor : Neela Santhosh kumar
 
 
 # 🔐 Advanced File Encryption Tool (AES-256)
