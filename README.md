@@ -21,3 +21,5 @@ A user-friendly Python tool to encrypt and decrypt files using strong AES encryp
 1. **Install Requirements**
 ```bash
 pip install cryptography
+
+![Image](https://github.com/user-attachments/assets/7ae39918-a961-436e-b683-54aa8cb40ebb)
